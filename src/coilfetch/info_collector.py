@@ -3,7 +3,7 @@ import platform
 import psutil
 from pydantic import BaseModel
 
-from pyfetch.collectors import linux, macos
+from coilfetch.collectors import linux, macos
 
 
 class CPUInfo(BaseModel):

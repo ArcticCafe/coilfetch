@@ -2,7 +2,7 @@ import rich
 from rich.table import Table
 from rich.text import Text
 
-from pyfetch.info_collector import InfoCollector
+from coilfetch.info_collector import InfoCollector
 
 logo = r"""[cyan]
           $1▗▄▄▄       $2▗▄▄▄▄    ▄▄▄▖

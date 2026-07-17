@@ -1,5 +1,5 @@
-from pyfetch.info_collector import InfoCollector
-from pyfetch.printer import Printer
+from coilfetch.info_collector import InfoCollector
+from coilfetch.printer import Printer
 
 
 def main():
